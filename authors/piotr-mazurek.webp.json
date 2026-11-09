@@ -1,0 +1,4 @@
+{
+  "prompt": "origin: public portrait of the named contributor; source: https://prowly-prod.s3.eu-west-1.amazonaws.com/uploads/landing_page_image/image/395601/51c039ac45fe087d87630499f3d5acea.jpg; page: https://media.ro.team/183957-wroclawianie-na-liscie-finalistow-25-under-25; license: unknown — confirm rights (press-office attachment) (confirm rights). Background removed with macOS Vision (scripts/cutout.swift), face-framed, grayscale, exposure-normalized by scripts/prepare_portraits.py; dithered at runtime by src/dither.js",
+  "createdAt": "2026-11-04T21:26:11.152Z"
+}

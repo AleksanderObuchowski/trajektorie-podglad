@@ -1,0 +1,4 @@
+{
+  "prompt": "origin: public portrait of the named contributor; source: https://conference2022.mlinpl.org/wp-content/uploads/2022/09/PiotrMilos.jpg; page: https://conference2022.mlinpl.org/; license: unknown — confirm rights (confirm rights). Background removed with macOS Vision (scripts/cutout.swift), face-framed, grayscale, exposure-normalized by scripts/prepare_portraits.py; dithered at runtime by src/dither.js",
+  "createdAt": "2026-11-04T21:26:11.167Z"
+}

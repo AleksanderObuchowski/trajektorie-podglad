@@ -1,0 +1,4 @@
+{
+  "prompt": "origin: public portrait of the named contributor; source: https://chanterelle.us-west.host.bsky.network/xrpc/com.atproto.sync.getBlob?did=did:plc:edahvqiaoar4ahtcmbx4lqqv&cid=bafkreie546vyi2nu6dhj5svgoranl777atu63d5npboeiqjjjad5jlzyq4; page: https://bsky.app/profile/trajektoria.bsky.social; license: unknown — confirm rights (confirm rights). Background removed with macOS Vision (scripts/cutout.swift), face-framed, grayscale, exposure-normalized by scripts/prepare_portraits.py; dithered at runtime by src/dither.js",
+  "createdAt": "2026-11-04T21:26:11.094Z"
+}

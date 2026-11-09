@@ -1,0 +1,4 @@
+{
+  "prompt": "origin: public portrait of the named contributor; source: https://jaroslawkrolewski.com/press/jaroslaw-krolewski-4.jpg; page: https://jaroslawkrolewski.com/media-license.html; license: Free for editorial/media use with credit 'Photo: Jarosław Królewski / jaroslawkrolewski.com'. Resizing and cropping allowed 'without altering their essential content'; confirm background removal and dithering are OK. (confirm rights). Background removed with macOS Vision (scripts/cutout.swift), face-framed, grayscale, exposure-normalized by scripts/prepare_portraits.py; dithered at runtime by src/dither.js",
+  "createdAt": "2026-11-04T21:26:11.000Z"
+}

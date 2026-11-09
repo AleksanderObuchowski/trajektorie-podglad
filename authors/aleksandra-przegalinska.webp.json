@@ -1,0 +1,4 @@
+{
+  "prompt": "origin: public portrait of the named contributor; source: https://upload.wikimedia.org/wikipedia/commons/a/af/Aleksandra_Przegalinska.jpg; page: https://commons.wikimedia.org/wiki/File:Aleksandra_Przegalinska.jpg; license: CC BY-SA 4.0 (Dariusz Jemielniak, Wikimedia Commons) (confirm rights). Background removed with macOS Vision (scripts/cutout.swift), face-framed, grayscale, exposure-normalized by scripts/prepare_portraits.py; dithered at runtime by src/dither.js",
+  "createdAt": "2026-11-04T21:26:10.913Z"
+}
